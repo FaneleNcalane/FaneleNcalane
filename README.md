@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaneleNcalane
 - 👀 I’m interested in development
-- 🌱 I’m currently learning C#
+- 🌱 C#
 - 💞️ I’m looking to collaborate on C# projects, 
 - 📫 How to reach me!! Email me 17ncalane@gmail.com
 
