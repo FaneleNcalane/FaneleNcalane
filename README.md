@@ -8,8 +8,8 @@ I am an **Aspiring Data Engineer** with a passion for building **scalable applic
 ### Currently Learning
 * **Java** & **React**
 * **Microsoft Azure** Infrastructure
-* Advanced **SQL** Optimization
-*  **Python**
+* **SQL** Optimization
+* **Python**
 
 ---
 
